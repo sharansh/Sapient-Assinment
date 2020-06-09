@@ -1,0 +1,13 @@
+.chartSection{
+    width:1000px;
+    height:230px;
+    margin:10px 10%;
+}
+
+@media only screen and (max-width: 600px) {
+    .chartSection{
+        width:500px;
+        height:250px;
+        margin:10px 10%;
+    }
+}

@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  color: white;
+}
+.App-header{
+  padding:4px 0px;
+}
+.App-header nav ul li{
+  list-style:none;
+  display:inline-block;
+  margin:0px 20px;
+
+}
+.App-header nav ul li a{
+  text-decoration: none;
+}
